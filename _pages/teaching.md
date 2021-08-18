@@ -7,13 +7,13 @@ author_profile: true
 {% include base_path %}
 
 
-UNC-Chapel Hill
+University of North Carolina at Chapel Hill (2021-Present)
 -----
-**PSYC210 Statistical Principles of Psychological Research**  
+**PSYC 210 Statistical Principles of Psychological Research**  
 Graduate Teaching Assistant  
 *Fall 2021*
 
-University of Notre Dame
+University of Notre Dame (2016-2020)
 -----
 **ACCT 20100 Accountancy I**  
 Undergraduate Teaching Assistant  
