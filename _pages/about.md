@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a first-year [Quantitative Psychology](https://quantpsych.unc.edu/) PhD student in the L.L. Thurstone Psychometric Laboratory in the Department of Psychology and Neuroscience at the University of North Carolina at Chapel Hill. 
+I am a first-year [Quantitative Psychology](https://quantpsych.unc.edu/) PhD student in the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill. 
+
+Broadly, I am interested in studying methodological advancements at the interface between interpretable machine learning and psychometrics to help analyze data in the social and behavioral sciences. 
 
 Education
 -----
@@ -18,7 +20,7 @@ Education
   *Aug 2016 - May 2020*
 * Ph.D. in Quantitative Psychology \
   University of North Carolina at Chapel Hill, Chapel Hill, NC \
-  *Aug 2021 - Present*
+  *Aug 2021 - Present (expected 2026)*
 
 Professional History
 -----
