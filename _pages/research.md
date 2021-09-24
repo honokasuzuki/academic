@@ -40,8 +40,3 @@ A data visualization project on an adaptation of the NC Public Schools School Re
 \
 [**Cost-Sensitive Neural Networks for Classifying Mushrooms**](https://github.com/honokasuzuki/poison-mushrooms)   
 A cost-sensitive neural network analysis for detecting poisonous vs. edible mushrooms and experimentation with varying misclassification costs. The network is built with PyTorch.
-
-
-<!---
-[**Logistic Regression Models for a Longitudinal MRI Study**](https://github.com/honokasuzuki/mri-dementia)   
-An analysis of correlated data using generalized estimating equations and random effects models with a focus on model selection. The data is from a longitudinal MRI study, and the goal is to predict whether a patient has dementia or not given their demographic and anatomic information. All models are programmed in R.
