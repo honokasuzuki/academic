@@ -20,6 +20,6 @@ Undergraduate Teaching Assistant
 *Spring 2019, Spring 2020*  
 
 **TRIO Upward Bound**  
-(An after-school enrichment program targeted towards supporting local high school students from low-income families to achieve higher education)  
 Math Tutor  
+(An after-school enrichment program targeted towards supporting local high school students from low-income families to achieve higher education)    
 *Fall 2017 - Spring 2019*
