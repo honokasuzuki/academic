@@ -19,11 +19,11 @@ Undergraduate Research Experience
 -------
 * Undergraduate Research Assistant  
 Learning Analytics and Measurement in Behavioral Sciences Lab   
-Sep 2017 - May 2020
+*Sep 2017 - May 2020*
 
 * Undergraduate Research Assistant   
 Performance Analytics Team of Notre Dame Athletics   
-May 2018 - May 2020
+*May 2018 - May 2020*
 
   
 
