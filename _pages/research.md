@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Projects & Experience"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -45,4 +45,3 @@ A cost-sensitive neural network analysis for detecting poisonous vs. edible mush
 <!---
 [**Logistic Regression Models for a Longitudinal MRI Study**](https://github.com/honokasuzuki/mri-dementia)   
 An analysis of correlated data using generalized estimating equations and random effects models with a focus on model selection. The data is from a longitudinal MRI study, and the goal is to predict whether a patient has dementia or not given their demographic and anatomic information. All models are programmed in R.
----!>
