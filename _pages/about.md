@@ -22,7 +22,7 @@ Education
   University of North Carolina at Chapel Hill, Chapel Hill, NC \
   *Aug 2021 - Present (expected 2026)*
 
-Professional History
+Work Experience
 -----
 * Data Scientist \
   EF Education First, Boston, MA \
