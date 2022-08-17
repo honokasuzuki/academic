@@ -15,15 +15,19 @@ Broadly, I am interested in studying machine learning, psychometrics, and other 
 
 Education
 -----
-* B.S. in Applied and Computational Mathematics and Statistics \
-  University of Notre Dame, Notre Dame, IN \
-  *Aug 2016 - May 2020*
 * Ph.D. in Quantitative Psychology \
   University of North Carolina at Chapel Hill, Chapel Hill, NC \
   *Aug 2021 - Present (expected 2026)*
+* B.S. in Applied and Computational Mathematics and Statistics \
+  University of Notre Dame, Notre Dame, IN \
+  *Aug 2016 - May 2020*
+
 
 Work Experience
 -----
+* Data Science Intern \
+  Abt Associates, Rockville, MD \
+  *Jun 2022 - Present*
 * Data Scientist \
   EF Education First, Boston, MA \
   *Jul 2020 - Jul 2021*
