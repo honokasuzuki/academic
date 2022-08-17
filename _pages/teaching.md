@@ -15,10 +15,6 @@ Graduate Teaching Assistant
 
 University of Notre Dame (2016-2020)
 -----
-**ACCT 20100 Accountancy I**  
-Undergraduate Teaching Assistant  
-*Spring 2019, Spring 2020*  
-
 **TRIO Upward Bound**  
 Math Tutor  
 (An after-school enrichment program targeted towards supporting local high school students from low-income families to achieve higher education)    
