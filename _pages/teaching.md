@@ -7,15 +7,14 @@ author_profile: true
 {% include base_path %}
 
 
-University of North Carolina at Chapel Hill (2021-Present)
+University of North Carolina at Chapel Hill
 -----
 **PSYC 210 Statistical Principles of Psychological Research**  
 Graduate Teaching Assistant  
 *Fall 2021 - Present*
 
-University of Notre Dame (2016-2020)
+University of Notre Dame
 -----
-**TRIO Upward Bound**  
-Math Tutor  
-(An after-school enrichment program targeted towards supporting local high school students from low-income families to achieve higher education)    
+**TRIO Upward Bound** (An after-school enrichment program targeted towards supporting local high school students from low-income families to achieve higher education)      
+Math Tutor   
 *Fall 2017 - Spring 2019*
