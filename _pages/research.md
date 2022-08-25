@@ -8,15 +8,23 @@ redirect_from:
 
 {% include base_path %}
 
-Graduate Research Experience
+Graduate Research
 -------
+**Interests:**  
+Measurement bias, algorithmic fairness, machine learning applications in behavioral sciences  
 
+**Experience:**    
+* Graduate Student Researcher   
+L.L. Thurstone Psychometric Lab   
+*Aug 2021 - Present*
+
+**Sample Projects:**  
 *Coming Soon!*  
   
    
-   
-Undergraduate Research Experience
+Undergraduate Research
 -------
+**Experience:**    
 * Undergraduate Research Assistant  
 Learning Analytics and Measurement in Behavioral Sciences Lab   
 *Sep 2017 - May 2020*
@@ -25,11 +33,8 @@ Learning Analytics and Measurement in Behavioral Sciences Lab
 Performance Analytics Team of Notre Dame Athletics   
 *May 2018 - May 2020*
 
-  
-
-Sample Undergraduate Projects
--------
-
+**Sample Projects:**  
+\
 [**Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses**](https://github.com/honokasuzuki/academy-awards)   
 A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate speech style differences across gender. The project involves web scraping, data cleaning, and several text analytic techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all done in R.
 \
