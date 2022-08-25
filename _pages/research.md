@@ -11,7 +11,7 @@ redirect_from:
 Graduate Research
 -------
 **Interests:**  
-Measurement bias, algorithmic fairness, machine learning applications in behavioral sciences  
+Measurement bias, algorithmic fairness, measurement theory in machine learning, machine learning applications in behavioral sciences  
 
 **Experience:**    
 * Graduate Student Researcher   
