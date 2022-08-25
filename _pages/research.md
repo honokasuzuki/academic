@@ -33,7 +33,7 @@ Learning Analytics and Measurement in Behavioral Sciences Lab
 Performance Analytics Team of Notre Dame Athletics   
 *May 2018 - May 2020*
 
-**Sample Projects:**  
+**Sample Projects on GitHub:**  
 \
 [**Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses**](https://github.com/honokasuzuki/academy-awards)   
 A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate speech style differences across gender. The project involves web scraping, data cleaning, and several text analytic techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all done in R.
