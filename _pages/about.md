@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there. Welcome to my site!"
+title: "Welcome to my site!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,29 +8,30 @@ redirect_from:
   - /about.html
 ---
 
+I am a second-year PhD student in [quantitative psychology](https://quantpsych.unc.edu/) the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill.
 
-I am a second-year [Quantitative Psychology](https://quantpsych.unc.edu/) PhD student in the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill. 
+Broadly, I am interested in the intersection of machine learning and psychometrics for advancing social and behavioral sciences research. This involves both leveraging psychometric ideas to augment machine learning techniques and leveraging machine learning ideas to augment psychometric techniques or substantive psychological research. 
 
-Broadly, I am interested in machine learning, psychometrics, and other quantitative methods for analyzing data in social and behavioral sciences research. 
+These interests draw from a combination of my current studies in quantitative psychology, my previous and current work experiences as a data scientist in socially oriented organizations, and my bachelor's degree in applied mathematics and statistics. Accordingly, my skill sets draw from areas of psychometrics, data science, and statistics, including latent variable modeling, data mining, statistical programming (e.g., R), data management and relational databases (e.g., SQL), data visualization (e.g., Power BI, Tableau), linear modeling, text analysis, and more. 
 
-Education
------
+\
+\
+**Education:**
 * Ph.D. in Quantitative Psychology \
   University of North Carolina at Chapel Hill, Chapel Hill, NC \
   *Aug 2021 - Present (expected 2026)*
 * B.S. in Applied and Computational Mathematics and Statistics \
   University of Notre Dame, Notre Dame, IN \
   *Aug 2016 - May 2020*
-
-
-Work Experience
------
+  
+**Work Experience:**
 * Data Science Intern \
   Abt Associates, Rockville, MD \
   *Jun 2022 - Present*
 * Data Scientist \
   EF Education First, Boston, MA \
   *Jul 2020 - Jul 2021*
+  
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
