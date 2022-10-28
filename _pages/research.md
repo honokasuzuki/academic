@@ -14,7 +14,7 @@ Graduate Research
 Measurement bias, algorithmic fairness, measurement theory in machine learning, machine learning applications in behavioral sciences  
 
 **Experience:**    
-* Graduate Student Researcher   
+Graduate Student Researcher   
 L.L. Thurstone Psychometric Lab   
 *Aug 2021 - Present*
 
@@ -25,11 +25,12 @@ L.L. Thurstone Psychometric Lab
 Undergraduate Research
 -------
 **Experience:**    
-* Undergraduate Research Assistant  
+Undergraduate Research Assistant  
 Learning Analytics and Measurement in Behavioral Sciences Lab   
 *Sep 2017 - May 2020*
 
-* Undergraduate Research Assistant   
+
+Undergraduate Research Assistant   
 Performance Analytics Team of Notre Dame Athletics   
 *May 2018 - May 2020*
 
