@@ -19,8 +19,9 @@ L.L. Thurstone Psychometric Lab
 *Aug 2021 - Present*
 
 **Sample Projects:**  
-[Assessing the predictive performance associated with various treatments of ordinal measures in machine learning](https://doi.org/10.35566/jbds/v2n2/suzuki)
-   
+[Treatments of ordinal measures in machine learning](https://doi.org/10.35566/jbds/v2n2/suzuki)   
+A simulation study assessing the predictive performance associated with various treatments of ordinal outcome variables in machine learning. 
+
 Undergraduate Research
 -------
 **Experience:**    
