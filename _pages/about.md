@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year PhD student in [quantitative psychology](https://quantpsych.unc.edu/) the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill.
 
-Broadly, I am interested in the intersection of machine learning and psychometrics for advancing social and behavioral sciences research. This involves both leveraging psychometric ideas to augment machine learning techniques and leveraging machine learning ideas to augment psychometric techniques or substantive psychological research. 
+Broadly, I am interested in the intersection of machine learning and psychometrics for advancing methodology in social and behavioral sciences research. This involves both leveraging psychometric ideas to augment machine learning techniques and leveraging machine learning ideas to augment psychometric techniques or substantive psychological research. 
 
 These interests draw from a combination of my current studies in quantitative psychology, my previous and current work experiences as a data scientist in socially oriented organizations, and my bachelor's degree in applied mathematics and statistics. Accordingly, my skill sets draw from areas of psychometrics, data science, and statistics, including latent variable modeling, data mining, statistical programming (e.g., R), data management and relational databases (e.g., SQL), data visualization (e.g., Power BI, Tableau), linear modeling, text analysis, and more. 
 
