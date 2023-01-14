@@ -35,7 +35,7 @@ Performance Analytics Team of Notre Dame Athletics
 *May 2018 - May 2020*
 
 **Sample Projects:**  
-[Prediction of differential performance between AP exam scores and class grades using machine learning](https://doi.org/10.3389/feduc.2022.1007779)   
+[Prediction of differential performance between AP exam scores and class grades](https://doi.org/10.3389/feduc.2022.1007779)   
 A machine learning application on student assessment data to understand why a student may rank differently on a high-stakes standardized test versus a teacher-assigned class grade.
 
 [Text analysis on Academy Awards acceptance speeches - actors vs. actresses](https://github.com/honokasuzuki/academy-awards)   
