@@ -19,8 +19,7 @@ L.L. Thurstone Psychometric Lab
 *Aug 2021 - Present*
 
 **Sample Projects:**  
-*Coming Soon!*  
-  
+[Assessing the predictive performance associated with various treatments of ordinal measures in machine learning](https://doi.org/10.35566/jbds/v2n2/suzuki)
    
 Undergraduate Research
 -------
@@ -34,15 +33,15 @@ Undergraduate Research Assistant
 Performance Analytics Team of Notre Dame Athletics   
 *May 2018 - May 2020*
 
-**Sample Projects on GitHub:**  
-\
-[**Text Analysis on Academy Awards Acceptance Speeches - Actors vs. Actresses**](https://github.com/honokasuzuki/academy-awards)   
+**Sample Projects:**  
+[Prediction of differential performance between AP exam scores and class grades using machine learning](https://doi.org/10.3389/feduc.2022.1007779)   
+A machine learning application on student assessment data to understand why a student may rank differently on a high-stakes standardized test versus a teacher-assigned class grade.
+
+[Text analysis on Academy Awards acceptance speeches - actors vs. actresses](https://github.com/honokasuzuki/academy-awards)   
 A text analysis project to quantitatively compare transcripts of Academy Award acceptance speeches given by actors and actresses to investigate speech style differences across gender. The project involves web scraping, data cleaning, and several text analytic techniques including sentiment analysis, structural topic modeling, and part-of-speech tagging, all done in R.
-\
-\
-[**North Carolina Public Schools School Report Card - Adapted**](https://github.com/honokasuzuki/nc-publicschools)   
+
+[North Carolina Public Schools School Report Card - adapted](https://github.com/honokasuzuki/nc-publicschools)   
 A data visualization project on an adaptation of the NC Public Schools School Report Card. The final product is an interactive report in Tableau, with the source data cleaned in R.
-\
-\
-[**Cost-Sensitive Neural Networks for Classifying Mushrooms**](https://github.com/honokasuzuki/poison-mushrooms)   
+
+[Cost-sensitive neural networks for classifying mushrooms](https://github.com/honokasuzuki/poison-mushrooms)   
 A cost-sensitive neural network analysis for detecting poisonous vs. edible mushrooms and experimentation with varying misclassification costs. The network is built with PyTorch.
