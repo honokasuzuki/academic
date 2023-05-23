@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in [quantitative psychology](https://quantpsych.unc.edu/) the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill.
+I am a second-year PhD student in [quantitative psychology](https://quantpsych.unc.edu/) at the L.L. Thurstone Psychometric Laboratory in the [Department of Psychology and Neuroscience](https://psychology.unc.edu/) at the University of North Carolina at Chapel Hill.
 
 Broadly, I am interested in the intersection of machine learning and psychometrics for advancing methodology in social and behavioral sciences research. This involves both leveraging psychometric ideas to augment machine learning techniques and leveraging machine learning ideas to augment psychometric techniques or substantive psychological research. 
 
