@@ -11,7 +11,7 @@ University of North Carolina at Chapel Hill
 -----
 **PSYC 210 Statistical Principles of Psychological Research**  
 Graduate Teaching Assistant  
-*Fall 2021 - Present*
+*Fall 2021 - Spring 2023*
 
 University of Notre Dame
 -----
