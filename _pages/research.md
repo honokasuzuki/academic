@@ -14,7 +14,7 @@ Graduate Research
 Measurement bias, algorithmic fairness, measurement theory in machine learning, machine learning applications in behavioral sciences  
 
 **Experience:**    
-Graduate Student Researcher   
+National Science Foundation Graduate Research Fellow   
 L.L. Thurstone Psychometric Lab   
 *Aug 2021 - Present*
 
